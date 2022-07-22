@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Flatty TV Plus
 
-You can use the [editor on GitHub](https://github.com/leafers58/FlattyTVPlus/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Your favorite Flatty shows, movies, and more. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 
 ### Markdown
 
