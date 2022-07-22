@@ -1,9 +1,4 @@
-## Flatty TV Plus
-
-Your favorite Flatty shows, movies, and more. 
-
+# Tech Weekly
+## Digital Edition
 
 
-### Purple Storm
-
-Orginal Series Streaming Soon!
